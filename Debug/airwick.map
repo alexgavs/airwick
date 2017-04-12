@@ -1,0 +1,539 @@
+Archive member included because of file (symbol)
+
+c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr25/tiny-stack\libgcc.a(_mulhi3.o)
+                              airwick.o (__mulhi3)
+c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr25/tiny-stack\libgcc.a(_exit.o)
+                              c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr25/tiny-stack/crttn13a.o (exit)
+c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr25/tiny-stack\libgcc.a(_clear_bss.o)
+                              airwick.o (__do_clear_bss)
+c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr25/tiny-stack\libc.a(eerd_byte_attiny13a.o)
+                              airwick.o (__eerd_byte_tn13a)
+c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr25/tiny-stack\libc.a(eerd_word_attiny13a.o)
+                              airwick.o (__eerd_word_tn13a)
+c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr25/tiny-stack\libc.a(eeupd_byte_attiny13a.o)
+                              airwick.o (__eeupd_byte_tn13a)
+c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr25/tiny-stack\libc.a(eeupd_word_attiny13a.o)
+                              airwick.o (__eeupd_word_tn13a)
+c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr25/tiny-stack\libc.a(eerd_block_attiny13a.o)
+                              c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr25/tiny-stack\libc.a(eerd_word_attiny13a.o) (__eerd_blraw_tn13a)
+
+Allocating common symbols
+Common symbol       size              file
+
+sDDRB               0x1               airwick.o
+sPORTB              0x1               airwick.o
+
+Discarded input sections
+
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr25/tiny-stack/crttn13a.o
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr25/tiny-stack/crttn13a.o
+ .group         0x00000000        0x8 airwick.o
+ .group         0x00000000        0x8 airwick.o
+ .group         0x00000000        0x8 airwick.o
+ .group         0x00000000        0x8 airwick.o
+ .group         0x00000000        0x8 airwick.o
+ .group         0x00000000        0x8 airwick.o
+ .group         0x00000000        0x8 airwick.o
+ .group         0x00000000        0x8 airwick.o
+ .group         0x00000000        0x8 airwick.o
+ .group         0x00000000        0x8 airwick.o
+ .group         0x00000000        0x8 airwick.o
+ .group         0x00000000        0x8 airwick.o
+ .group         0x00000000        0x8 airwick.o
+ .group         0x00000000        0x8 airwick.o
+ .group         0x00000000        0x8 airwick.o
+ .group         0x00000000        0x8 airwick.o
+ .group         0x00000000        0x8 airwick.o
+ .group         0x00000000        0x8 airwick.o
+ .group         0x00000000        0x8 airwick.o
+ .group         0x00000000        0x8 airwick.o
+ .group         0x00000000        0x8 airwick.o
+ .text          0x00000000        0x0 airwick.o
+ .data          0x00000000        0x0 airwick.o
+ .bss           0x00000000        0x0 airwick.o
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr25/tiny-stack\libgcc.a(_mulhi3.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr25/tiny-stack\libgcc.a(_mulhi3.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr25/tiny-stack\libgcc.a(_mulhi3.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr25/tiny-stack\libgcc.a(_mulhi3.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr25/tiny-stack\libgcc.a(_mulhi3.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr25/tiny-stack\libgcc.a(_mulhi3.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr25/tiny-stack\libgcc.a(_mulhi3.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr25/tiny-stack\libgcc.a(_mulhi3.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr25/tiny-stack\libgcc.a(_mulhi3.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr25/tiny-stack\libgcc.a(_exit.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr25/tiny-stack\libgcc.a(_exit.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr25/tiny-stack\libgcc.a(_exit.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr25/tiny-stack\libgcc.a(_exit.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr25/tiny-stack\libgcc.a(_exit.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr25/tiny-stack\libgcc.a(_exit.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr25/tiny-stack\libgcc.a(_exit.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr25/tiny-stack\libgcc.a(_exit.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr25/tiny-stack\libgcc.a(_exit.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr25/tiny-stack\libgcc.a(_exit.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr25/tiny-stack\libgcc.a(_clear_bss.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr25/tiny-stack\libgcc.a(_clear_bss.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr25/tiny-stack\libgcc.a(_clear_bss.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr25/tiny-stack\libgcc.a(_clear_bss.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr25/tiny-stack\libgcc.a(_clear_bss.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr25/tiny-stack\libgcc.a(_clear_bss.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr25/tiny-stack\libgcc.a(_clear_bss.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr25/tiny-stack\libgcc.a(_clear_bss.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr25/tiny-stack\libgcc.a(_clear_bss.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr25/tiny-stack\libgcc.a(_clear_bss.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr25/tiny-stack\libc.a(eerd_byte_attiny13a.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr25/tiny-stack\libc.a(eerd_byte_attiny13a.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr25/tiny-stack\libc.a(eerd_byte_attiny13a.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr25/tiny-stack\libc.a(eerd_word_attiny13a.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr25/tiny-stack\libc.a(eerd_word_attiny13a.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr25/tiny-stack\libc.a(eerd_word_attiny13a.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr25/tiny-stack\libc.a(eeupd_byte_attiny13a.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr25/tiny-stack\libc.a(eeupd_byte_attiny13a.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr25/tiny-stack\libc.a(eeupd_byte_attiny13a.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr25/tiny-stack\libc.a(eeupd_word_attiny13a.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr25/tiny-stack\libc.a(eeupd_word_attiny13a.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr25/tiny-stack\libc.a(eeupd_word_attiny13a.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr25/tiny-stack\libc.a(eerd_block_attiny13a.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr25/tiny-stack\libc.a(eerd_block_attiny13a.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr25/tiny-stack\libc.a(eerd_block_attiny13a.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+text             0x00000000         0x00002000         xr
+data             0x00800060         0x0000ffa0         rw !x
+eeprom           0x00810000         0x00010000         rw !x
+fuse             0x00820000         0x00000400         rw !x
+lock             0x00830000         0x00000400         rw !x
+signature        0x00840000         0x00000400         rw !x
+user_signatures  0x00850000         0x00000400         rw !x
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr25/tiny-stack/crttn13a.o
+LOAD airwick.o
+START GROUP
+LOAD c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr25/tiny-stack\libm.a
+END GROUP
+START GROUP
+LOAD c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr25/tiny-stack\libgcc.a
+LOAD c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr25/tiny-stack\libm.a
+LOAD c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr25/tiny-stack\libc.a
+END GROUP
+
+.hash
+ *(.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+ *(.rel.text.*)
+ *(.rel.gnu.linkonce.t*)
+
+.rela.text
+ *(.rela.text)
+ *(.rela.text.*)
+ *(.rela.gnu.linkonce.t*)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+ *(.rel.rodata.*)
+ *(.rel.gnu.linkonce.r*)
+
+.rela.rodata
+ *(.rela.rodata)
+ *(.rela.rodata.*)
+ *(.rela.gnu.linkonce.r*)
+
+.rel.data
+ *(.rel.data)
+ *(.rel.data.*)
+ *(.rel.gnu.linkonce.d*)
+
+.rela.data
+ *(.rela.data)
+ *(.rela.data.*)
+ *(.rela.gnu.linkonce.d*)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.text           0x00000000      0x3ee
+ *(.vectors)
+ .vectors       0x00000000       0x14 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr25/tiny-stack/crttn13a.o
+                0x00000000                __vector_default
+                0x00000000                __vectors
+ *(.vectors)
+ *(.progmem.gcc*)
+                0x00000014                . = ALIGN (0x2)
+                0x00000014                __trampolines_start = .
+ *(.trampolines)
+ .trampolines   0x00000014        0x0 linker stubs
+ *(.trampolines*)
+                0x00000014                __trampolines_end = .
+ *(.progmem*)
+                0x00000014                . = ALIGN (0x2)
+ *(.jumptables)
+ *(.jumptables*)
+ *(.lowtext)
+ *(.lowtext*)
+                0x00000014                __ctors_start = .
+ *(.ctors)
+                0x00000014                __ctors_end = .
+                0x00000014                __dtors_start = .
+ *(.dtors)
+                0x00000014                __dtors_end = .
+ SORT(*)(.ctors)
+ SORT(*)(.dtors)
+ *(.init0)
+ .init0         0x00000014        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr25/tiny-stack/crttn13a.o
+                0x00000014                __init
+ *(.init0)
+ *(.init1)
+ *(.init1)
+ *(.init2)
+ .init2         0x00000014        0x8 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr25/tiny-stack/crttn13a.o
+ *(.init2)
+ *(.init3)
+ *(.init3)
+ *(.init4)
+ .init4         0x0000001c       0x10 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr25/tiny-stack\libgcc.a(_clear_bss.o)
+                0x0000001c                __do_clear_bss
+ *(.init4)
+ *(.init5)
+ *(.init5)
+ *(.init6)
+ *(.init6)
+ *(.init7)
+ *(.init7)
+ *(.init8)
+ *(.init8)
+ *(.init9)
+ .init9         0x0000002c        0x4 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr25/tiny-stack/crttn13a.o
+ *(.init9)
+ *(.text)
+ .text          0x00000030        0x2 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr25/tiny-stack/crttn13a.o
+                0x00000030                __bad_interrupt
+                0x00000030                __vector_6
+                0x00000030                __vector_3
+                0x00000030                __vector_7
+                0x00000030                __vector_5
+                0x00000030                __vector_4
+                0x00000030                __vector_9
+                0x00000030                __vector_2
+                0x00000030                __vector_8
+                0x00000032                . = ALIGN (0x2)
+ *(.text.*)
+ .text.LightLumen
+                0x00000032       0x34 airwick.o
+                0x00000032                LightLumen
+ .text.delay_ms
+                0x00000066       0x16 airwick.o
+                0x00000066                delay_ms
+ .text.blinkinfo
+                0x0000007c       0x64 airwick.o
+                0x0000007c                blinkinfo
+ .text.keyscan  0x000000e0       0xac airwick.o
+                0x000000e0                keyscan
+ .text.__vector_1
+                0x0000018c       0x46 airwick.o
+                0x0000018c                __vector_1
+ .text.init     0x000001d2       0x3a airwick.o
+                0x000001d2                init
+ .text.startup.main
+                0x0000020c      0x15c airwick.o
+                0x0000020c                main
+ .text.libgcc.mul
+                0x00000368       0x22 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr25/tiny-stack\libgcc.a(_mulhi3.o)
+                0x00000368                __mulhi3
+ .text.avr-libc
+                0x0000038a       0x10 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr25/tiny-stack\libc.a(eerd_byte_attiny13a.o)
+                0x0000038a                __eerd_byte_tn13a
+ .text.avr-libc
+                0x0000039a        0x6 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr25/tiny-stack\libc.a(eerd_word_attiny13a.o)
+                0x0000039a                __eerd_word_tn13a
+ .text.avr-libc
+                0x000003a0       0x24 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr25/tiny-stack\libc.a(eeupd_byte_attiny13a.o)
+                0x000003a0                __eeupd_byte_tn13a
+                0x000003a2                __eeupd_r18_tn13a
+ .text.avr-libc
+                0x000003c4        0x8 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr25/tiny-stack\libc.a(eeupd_word_attiny13a.o)
+                0x000003c4                __eeupd_word_tn13a
+ .text.avr-libc
+                0x000003cc       0x1e c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr25/tiny-stack\libc.a(eerd_block_attiny13a.o)
+                0x000003cc                __eerd_block_tn13a
+                0x000003d0                __eerd_blraw_tn13a
+                0x000003ea                . = ALIGN (0x2)
+ *(.fini9)
+ .fini9         0x000003ea        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr25/tiny-stack\libgcc.a(_exit.o)
+                0x000003ea                _exit
+                0x000003ea                exit
+ *(.fini9)
+ *(.fini8)
+ *(.fini8)
+ *(.fini7)
+ *(.fini7)
+ *(.fini6)
+ *(.fini6)
+ *(.fini5)
+ *(.fini5)
+ *(.fini4)
+ *(.fini4)
+ *(.fini3)
+ *(.fini3)
+ *(.fini2)
+ *(.fini2)
+ *(.fini1)
+ *(.fini1)
+ *(.fini0)
+ .fini0         0x000003ea        0x4 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr25/tiny-stack\libgcc.a(_exit.o)
+ *(.fini0)
+                0x000003ee                _etext = .
+
+.data           0x00800060        0x0 load address 0x000003ee
+                0x00800060                PROVIDE (__data_start, .)
+ *(.data)
+ *(.data*)
+ *(.rodata)
+ *(.rodata*)
+ *(.gnu.linkonce.d*)
+                0x00800060                . = ALIGN (0x2)
+                0x00800060                _edata = .
+                0x00800060                PROVIDE (__data_end, .)
+
+.bss            0x00800060        0x2
+                0x00800060                PROVIDE (__bss_start, .)
+ *(.bss)
+ *(.bss*)
+ *(COMMON)
+ COMMON         0x00800060        0x2 airwick.o
+                0x00800060                sDDRB
+                0x00800061                sPORTB
+                0x00800062                PROVIDE (__bss_end, .)
+                0x000003ee                __data_load_start = LOADADDR (.data)
+                0x000003ee                __data_load_end = (__data_load_start + SIZEOF (.data))
+
+.noinit         0x00800062        0x6
+                0x00800062                PROVIDE (__noinit_start, .)
+ *(.noinit*)
+ .noinit        0x00800062        0x6 airwick.o
+                0x00800062                LastLedSensorStatus
+                0x00800063                countDayTimer
+                0x00800065                counter
+                0x00800066                MTimer
+                0x00800068                PROVIDE (__noinit_end, .)
+                0x00800068                _end = .
+                0x00800068                PROVIDE (__heap_start, .)
+
+.eeprom         0x00810000        0x4
+ *(.eeprom*)
+ .eeprom        0x00810000        0x4 airwick.o
+                0x00810000                eNight
+                0x00810001                eLight_level
+                0x00810003                eset_hrs
+                0x00810004                __eeprom_end = .
+
+.fuse
+ *(.fuse)
+ *(.lfuse)
+ *(.hfuse)
+ *(.efuse)
+
+.lock
+ *(.lock*)
+
+.signature
+ *(.signature*)
+
+.user_signatures
+ *(.user_signatures*)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x00000000       0x30
+ *(.comment)
+ .comment       0x00000000       0x30 airwick.o
+                                 0x31 (size before relaxing)
+
+.note.gnu.build-id
+ *(.note.gnu.build-id)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000       0x50
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000       0x50 airwick.o
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x00000000      0x668
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x00000000      0x668 airwick.o
+
+.debug_abbrev   0x00000000      0x230
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000      0x230 airwick.o
+
+.debug_line     0x00000000      0x609
+ *(.debug_line .debug_line.* .debug_line_end)
+ .debug_line    0x00000000      0x609 airwick.o
+
+.debug_frame    0x00000000       0xec
+ *(.debug_frame)
+ .debug_frame   0x00000000       0xec airwick.o
+
+.debug_str      0x00000000     0x67ee
+ *(.debug_str)
+ .debug_str     0x00000000     0x67ee airwick.o
+                               0x6976 (size before relaxing)
+
+.debug_loc      0x00000000      0x40b
+ *(.debug_loc)
+ .debug_loc     0x00000000      0x40b airwick.o
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges   0x00000000       0x40
+ *(.debug_ranges)
+ .debug_ranges  0x00000000       0x40 airwick.o
+
+.debug_macro    0x00000000     0x1ebb
+ *(.debug_macro)
+ .debug_macro   0x00000000      0x106 airwick.o
+ .debug_macro   0x00000106      0xa1e airwick.o
+ .debug_macro   0x00000b24       0x10 airwick.o
+ .debug_macro   0x00000b34      0x1ad airwick.o
+ .debug_macro   0x00000ce1      0x293 airwick.o
+ .debug_macro   0x00000f74       0x9e airwick.o
+ .debug_macro   0x00001012      0x733 airwick.o
+ .debug_macro   0x00001745       0xc3 airwick.o
+ .debug_macro   0x00001808       0xa2 airwick.o
+ .debug_macro   0x000018aa       0x34 airwick.o
+ .debug_macro   0x000018de       0x18 airwick.o
+ .debug_macro   0x000018f6       0x34 airwick.o
+ .debug_macro   0x0000192a       0x69 airwick.o
+ .debug_macro   0x00001993       0x4e airwick.o
+ .debug_macro   0x000019e1       0x10 airwick.o
+ .debug_macro   0x000019f1      0x16d airwick.o
+ .debug_macro   0x00001b5e       0x76 airwick.o
+ .debug_macro   0x00001bd4       0x65 airwick.o
+ .debug_macro   0x00001c39       0x88 airwick.o
+ .debug_macro   0x00001cc1      0x166 airwick.o
+ .debug_macro   0x00001e27       0x3c airwick.o
+ .debug_macro   0x00001e63       0x58 airwick.o
+OUTPUT(airwick.elf elf32-avr)
+LOAD linker stubs
